@@ -1,0 +1,9 @@
+Pocision     |     Proceso
+     
+
+0       |     A
+
+1       |     C
+
+2       |     B
+
